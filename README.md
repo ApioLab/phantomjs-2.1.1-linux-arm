@@ -30,4 +30,4 @@ PhantomJS has been built using the process described below.
 
 __1.__ Set a QEMU Emulator as described in here: https://wiki.debian.org/RaspberryPi/qemu-user-static
 
-__2.__ Follow the build instructions as described in here: http://phantomjs.org/build.html
+__2.__ Followed the build instructions as described in here: http://phantomjs.org/build.html
